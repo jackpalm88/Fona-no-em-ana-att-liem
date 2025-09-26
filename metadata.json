@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Fona Noņemšanas Rīks",
+  "description": "Inteliģents fona noņemšanas un aizstāšanas rīks, ko darbina Gemini. Viegli noņemiet fonus, ģenerējiet jaunus, izmantojot teksta uzvednes, vai pievienojiet savus pielāgotos attēlus.",
+  "requestFramePermissions": []
+}
